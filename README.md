@@ -1,7 +1,8 @@
 # Digit-recognition-CNN
 # A convolutional neural network approach for handwritten digit recognition 
 
-The dataset used for training our CNN model is the famous MNIST dataset which contains grayscale images of handwritten digits' of size 28 x 28 pixels. The dataset used for this model was downloaded from the link : https://datahack.analyticsvidhya.com/contest/practice-problem-identify-the-digits/
+The dataset used for training the CNN model is the famous MNIST dataset which contains grayscale images of handwritten digits of size 28 x 28 pixels. The dataset used for this model was downloaded from the link : https://datahack.analyticsvidhya.com/contest/practice-problem-identify-the-digits/
+
 The original source of the dataset : http://yann.lecun.com/exdb/mnist/
 
 The dataset has been divided into two parts :
